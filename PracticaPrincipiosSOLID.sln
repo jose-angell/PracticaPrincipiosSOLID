@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPrincipiosSOLID", "PracticaPrincipiosSOLID\PracticaPrincipiosSOLID.csproj", "{9DBD7D63-B9F8-4AEF-9433-44D413C83727}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaPrincipiosSOLID.TESTS", "PracticaPrincipiosSOLID.TESTS\PracticaPrincipiosSOLID.TESTS.csproj", "{5E11496A-5664-43A5-A44F-B3A585D35229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBD7D63-B9F8-4AEF-9433-44D413C83727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBD7D63-B9F8-4AEF-9433-44D413C83727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBD7D63-B9F8-4AEF-9433-44D413C83727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBD7D63-B9F8-4AEF-9433-44D413C83727}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E11496A-5664-43A5-A44F-B3A585D35229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E11496A-5664-43A5-A44F-B3A585D35229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E11496A-5664-43A5-A44F-B3A585D35229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E11496A-5664-43A5-A44F-B3A585D35229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
